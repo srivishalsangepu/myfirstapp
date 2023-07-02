@@ -1,2 +1,0 @@
-# myfirstapp
-core ui template
